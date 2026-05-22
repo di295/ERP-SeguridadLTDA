@@ -1,0 +1,1 @@
+Control de entradas,salidas y nivel de stock
